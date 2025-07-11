@@ -12,11 +12,11 @@ Ici, tu trouveras donc un peu de tout : des projets persos, des contributions as
 
 Depuis mon arrivée, je me suis pas mal impliqué dans les assos :
 
-- **Integ Fev *(P23)*** — Site web vitrine en `HTML/CSS/JS`, debug sur l'app `Flutter`
-- **Integ *(A23)*** — Site vitrine en `Tailwind CSS`, features & debug sur l'app `Expo` et le serveur `Laravel`
-- **Ski'UT *(P24 - A24)*** — Nouvelle app en `Expo` + nouveau serveur `Laravel`
-- **SiMDE *(P25)*** — Webapp pour la gestion des CATs avec `Filament` + docs en Markdown
-- **Pic'Asso *(P25)*** — Features et debug du backoffice `Filament`, idem pour l'app des bornes de paiement `React`, et… plein de petits projets avec l'infra et les rasp du Pic (mais pour voir ça il faut y passer ^^)
+- **Integ Fev *(Printemps 2023)*** — Site web vitrine en `HTML/CSS/JS`, debug sur l'app `Flutter`
+- **Integ *(Automne 2023)*** — Site vitrine en `Tailwind CSS`, features & debug sur l'app `Expo` et le serveur `Laravel`
+- **Ski'UT *(Printemps 2024 - Automne 2024)*** — Nouvelle app en `Expo` + nouveau serveur `Laravel`
+- **SiMDE *(Printemps 2025)*** — Webapp pour la gestion des CATs avec `Filament` + docs en Markdown
+- **Pic'Asso *(Printemps 2025)*** — Features et debug du backoffice `Filament`, idem pour l'app des bornes de paiement `React`, et… plein de petits projets avec l'infra et les rasp du Pic (mais pour voir ça il faut y passer ^^)
 
 ---
 
@@ -26,10 +26,10 @@ Quelques projets que tu peux retrouver ici :
 
 | 📁 Matière | 👨‍💻 Projet | 🛠️ Stack |
 |-----------|----------|----------|
-| **SR10** *(P25)* | Webapp API | `Express.js` |
-| **IA02** *(P25)* | Algorithmes IA | `Python` + `Prolog` |
-| **IC05** *(P24)* | Scraping Letterboxd | `Python` + `Selenium` |
-| **NF18** *(P24)* | BDD relationnelle & NoSQL | `Python` + `SQL` |
+| **SR10** *(Printemps 2025)* | Webapp style LinkedIn | `Express.js` |
+| **IA02** *(Printemps 2025)* | Algorithmes IA | `Python` + `Prolog` |
+| **IC05** *(Printemps 2024)* | Scraping Letterboxd | `Python` + `Selenium` |
+| **NF18** *(Printemps 2024)* | BDD relationnelle & NoSQL | `Python` + `SQL` |
 
 ---
 
