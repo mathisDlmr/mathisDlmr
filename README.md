@@ -17,6 +17,8 @@ Depuis mon arrivée, je me suis pas mal impliqué dans les assos :
 - **Ski'UT *(Printemps 2024 - Automne 2024)*** — Nouvelle app en `Expo` + nouveau serveur `Laravel`
 - **SiMDE *(Printemps 2025)*** — Webapp pour la gestion des CATs avec `Filament` + docs en Markdown
 - **Pic'Asso *(Printemps 2025)*** — Features et debug du backoffice `Filament`, idem pour l'app des bornes de paiement `React`, et… plein de petits projets avec l'infra et les rasp du Pic (mais pour voir ça il faut y passer ^^)
+- **Ski'UT *(Printemps 2025 - Automne 2025)*** — Retour à Ski'UT pour finir mon travail (sortir quelques nouvelles features, debug et optimisation) + documenter à fond et rendre le code open-source (histoire d'avoir quelques chose de péren et dont les assos peuvent s'inspirer)
+
 
 ---
 
@@ -26,10 +28,12 @@ Quelques projets que tu peux retrouver ici :
 
 | 📁 Matière | 👨‍💻 Projet | 🛠️ Stack |
 |-----------|----------|----------|
+| **TX Tut'ut** *(Printemps 2024)* | Webapp pour le programme de tutorat Tut'ut | `Filament` |
 | **SR10** *(Printemps 2025)* | Webapp style LinkedIn | `Express.js` |
 | **IA02** *(Printemps 2025)* | Algorithmes IA | `Python` + `Prolog` |
 | **IC05** *(Printemps 2024)* | Scraping Letterboxd | `Python` + `Selenium` |
 | **NF18** *(Printemps 2024)* | BDD relationnelle & NoSQL | `Python` + `SQL` |
+
 
 ---
 
